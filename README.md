@@ -14,55 +14,55 @@ motivate users to push their limits further by using leaderboards, interactive g
 integrated workout videos.
 <h2>Stakeholders</h2>
 <list>
-● People new to fitness that are looking to learn and guide themselves through different
+- People new to fitness that are looking to learn and guide themselves through different
 exercises.
-● Experienced active users looking for tools to track workouts/progress and enhance their
+- Experienced active users looking for tools to track workouts/progress and enhance their
 progress.
-● Fitness content creators who aim to share and promote their content on the app, creating
+- Fitness content creators who aim to share and promote their content on the app, creating
 their own fitness community.
-● Personal trainers and coaches who would want to manage client workouts, monitor
+- Personal trainers and coaches who would want to manage client workouts, monitor
 progress, and guide them remotely using videos and personalized workout routines.
-● Gym owners that can benefit from the leaderboard and gamification features to improve
+- Gym owners that can benefit from the leaderboard and gamification features to improve
 member engagement.
 </list>
 <h2>Project Deliverables</h2>
 <list>
-● User-friendly interface.
-● User registration (email and password).
-● Personalized workout routine feature.
-● Workout tracking and logging functionality.
-● Statistics and progress tracking.
-● Exercise catalog with descriptions and video demonstrations (Content Sharing).
-● Remote coaching features to manage client workouts, monitor progress, and provide
+- User-friendly interface.
+- User registration (email and password).
+- Personalized workout routine feature.
+- Workout tracking and logging functionality.
+- Statistics and progress tracking.
+- Exercise catalog with descriptions and video demonstrations (Content Sharing).
+- Remote coaching features to manage client workouts, monitor progress, and provide
 guidance remotely.
-● Leaderboards for the members to increase competition and motivation.
-● Interactive games or challenges that can function through your fitness progress to make
+- Leaderboards for the members to increase competition and motivation.
+- Interactive games or challenges that can function through your fitness progress to make
 workouts more engaging.
-● Integration with gym systems to utilize the leaderboard and gamification features to
+- Integration with gym systems to utilize the leaderboard and gamification features to
 improve member engagement.
 </list>
 <h2>Project Deliverables (Core Features)</h2>
 <list>
-1. User Workout Routine
+- User Workout Routine
 a. A view for all the workout routines a user can do for a specific session.
-2. Workout Log History (a listview of all the times a user went to the gym)
+- Workout Log History (a listview of all the times a user went to the gym)
 a. When a user clicks on a specific log, it will reveal exercises to perform or will
 perform and for each exercise set, reps and weight will be displayed.
-3. Statistics
+- Statistics
 a. Calendar showing days when a user went to the gym.
-b. A graph showing progress for each specific exercise.
-4. Exercises Catalog
+- A graph showing progress for each specific exercise.
+- Exercises Catalog
 a. A list of all exercises available.
 b. Users can add/delete/change exercise routines.
 </list>
 <h2>Project Deliverables (Optional Features)</h2>
 <list>
-1. Leaderboard/Challenge system
+- Leaderboard/Challenge system
 a. A system that challenges users and friends through the tracking system and
 statistics.
-2. Gamify the app
+- Gamify the app
 a. Have a system implemented that acts as a pseudo character stat tracker like in a
 video game.
-3. Integrated workout tutorials/videos/lessons
+- Integrated workout tutorials/videos/lessons
 a. Use https://strengthlevel.com/strength-standards to set standards.
 </list>
