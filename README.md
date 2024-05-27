@@ -14,15 +14,15 @@ motivate users to push their limits further by using leaderboards, interactive g
 integrated workout videos.
 <h2>Stakeholders</h2>
 <list>
-- People new to fitness that are looking to learn and guide themselves through different
+* People new to fitness that are looking to learn and guide themselves through different
 exercises.
-- Experienced active users looking for tools to track workouts/progress and enhance their
+* Experienced active users looking for tools to track workouts/progress and enhance their
 progress.
-- Fitness content creators who aim to share and promote their content on the app, creating
+* Fitness content creators who aim to share and promote their content on the app, creating
 their own fitness community.
-- Personal trainers and coaches who would want to manage client workouts, monitor
+* Personal trainers and coaches who would want to manage client workouts, monitor
 progress, and guide them remotely using videos and personalized workout routines.
-- Gym owners that can benefit from the leaderboard and gamification features to improve
+* Gym owners that can benefit from the leaderboard and gamification features to improve
 member engagement.
 </list>
 <h2>Project Deliverables</h2>
