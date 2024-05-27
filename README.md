@@ -12,7 +12,8 @@ allowing users to create a personalized workout routine, view previous workout l
 in-depth statistics, and access a variety of exercise catalogs. The app will also incentivise and
 motivate users to push their limits further by using leaderboards, interactive games, and
 integrated workout videos.
-Stakeholders
+<h2>Stakeholders</h2>
+<list>
 ● People new to fitness that are looking to learn and guide themselves through different
 exercises.
 ● Experienced active users looking for tools to track workouts/progress and enhance their
@@ -23,7 +24,9 @@ their own fitness community.
 progress, and guide them remotely using videos and personalized workout routines.
 ● Gym owners that can benefit from the leaderboard and gamification features to improve
 member engagement.
-Project Deliverables
+</list>
+<h2>Project Deliverables</h2>
+<list>
 ● User-friendly interface.
 ● User registration (email and password).
 ● Personalized workout routine feature.
@@ -37,7 +40,9 @@ guidance remotely.
 workouts more engaging.
 ● Integration with gym systems to utilize the leaderboard and gamification features to
 improve member engagement.
-Project Deliverables (Core Features)
+</list>
+<h2>Project Deliverables (Core Features)</h2>
+<list>
 1. User Workout Routine
 a. A view for all the workout routines a user can do for a specific session.
 2. Workout Log History (a listview of all the times a user went to the gym)
@@ -49,7 +54,9 @@ b. A graph showing progress for each specific exercise.
 4. Exercises Catalog
 a. A list of all exercises available.
 b. Users can add/delete/change exercise routines.
-Project Deliverables (Optional Features)
+</list>
+<h2>Project Deliverables (Optional Features)</h2>
+<list>
 1. Leaderboard/Challenge system
 a. A system that challenges users and friends through the tracking system and
 statistics.
@@ -58,3 +65,4 @@ a. Have a system implemented that acts as a pseudo character stat tracker like i
 video game.
 3. Integrated workout tutorials/videos/lessons
 a. Use https://strengthlevel.com/strength-standards to set standards.
+</list>
