@@ -26,7 +26,6 @@ progress, and guide them remotely using videos and personalized workout routines
 member engagement.
 
 <h2>Project Deliverables</h2>
-<list>
 - User-friendly interface.
 - User registration (email and password).
 - Personalized workout routine feature.
@@ -40,9 +39,7 @@ guidance remotely.
 workouts more engaging.
 - Integration with gym systems to utilize the leaderboard and gamification features to
 improve member engagement.
-</list>
 <h2>Project Deliverables (Core Features)</h2>
-<list>
 - User Workout Routine
 a. A view for all the workout routines a user can do for a specific session.
 - Workout Log History (a listview of all the times a user went to the gym)
@@ -54,9 +51,7 @@ a. Calendar showing days when a user went to the gym.
 - Exercises Catalog
 a. A list of all exercises available.
 b. Users can add/delete/change exercise routines.
-</list>
 <h2>Project Deliverables (Optional Features)</h2>
-<list>
 - Leaderboard/Challenge system
 a. A system that challenges users and friends through the tracking system and
 statistics.
@@ -65,4 +60,3 @@ a. Have a system implemented that acts as a pseudo character stat tracker like i
 video game.
 - Integrated workout tutorials/videos/lessons
 a. Use https://strengthlevel.com/strength-standards to set standards.
-</list>
