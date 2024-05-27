@@ -12,6 +12,7 @@ allowing users to create a personalized workout routine, view previous workout l
 in-depth statistics, and access a variety of exercise catalogs. The app will also incentivise and
 motivate users to push their limits further by using leaderboards, interactive games, and
 integrated workout videos.
+
 <h2>Stakeholders</h2>
 
 - People new to fitness that are looking to learn and guide themselves through different
@@ -26,6 +27,7 @@ progress, and guide them remotely using videos and personalized workout routines
 member engagement.
 
 <h2>Project Deliverables</h2>
+
 - User-friendly interface.
 - User registration (email and password).
 - Personalized workout routine feature.
@@ -39,6 +41,7 @@ guidance remotely.
 workouts more engaging.
 - Integration with gym systems to utilize the leaderboard and gamification features to
 improve member engagement.
+
 <h2>Project Deliverables (Core Features)</h2>
 - User Workout Routine
 a. A view for all the workout routines a user can do for a specific session.
