@@ -44,23 +44,25 @@ improve member engagement.
 
 <h2>Project Deliverables (Core Features)</h2>
 
-- User Workout Routine
-a. A view for all the workout routines a user can do for a specific session.
-- Workout Log History (a listview of all the times a user went to the gym)
-a. When a user clicks on a specific log, it will reveal exercises to perform or will
+1. User Workout Routine
+- A view for all the workout routines a user can do for a specific session.
+2. Workout Log History (a listview of all the times a user went to the gym)
+- When a user clicks on a specific log, it will reveal exercises to perform or will
 perform and for each exercise set, reps and weight will be displayed.
-- Statistics
-a. Calendar showing days when a user went to the gym.
+3. Statistics
+- Calendar showing days when a user went to the gym.
 - A graph showing progress for each specific exercise.
-- Exercises Catalog
-a. A list of all exercises available.
-b. Users can add/delete/change exercise routines.
+4. Exercises Catalog
+- A list of all exercises available.
+- Users can add/delete/change exercise routines.
+
 <h2>Project Deliverables (Optional Features)</h2>
-- Leaderboard/Challenge system
-a. A system that challenges users and friends through the tracking system and
+
+1. Leaderboard/Challenge system
+- A system that challenges users and friends through the tracking system and
 statistics.
 - Gamify the app
-a. Have a system implemented that acts as a pseudo character stat tracker like in a
+2. Have a system implemented that acts as a pseudo character stat tracker like in a
 video game.
 - Integrated workout tutorials/videos/lessons
-a. Use https://strengthlevel.com/strength-standards to set standards.
+- Use https://strengthlevel.com/strength-standards to set standards.
