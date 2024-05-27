@@ -43,6 +43,7 @@ workouts more engaging.
 improve member engagement.
 
 <h2>Project Deliverables (Core Features)</h2>
+
 - User Workout Routine
 a. A view for all the workout routines a user can do for a specific session.
 - Workout Log History (a listview of all the times a user went to the gym)
